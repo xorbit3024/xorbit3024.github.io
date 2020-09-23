@@ -5,3 +5,20 @@ body
 	background: url("neko.png");
 	background_size: cover;
 }
+.box
+{
+	width: 450px;
+	background: rgba(87, 89, 88, 0.4);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+	color: white;
+	font-family: 'Century Gothic', sans-serif;
+}
+.box-img
+{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
