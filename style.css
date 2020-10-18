@@ -1,63 +1,10 @@
+.neko-zero
+{
+	width: auto;
+
+}
 body
 {
-	margin: 0;
-	padding: 0;
-	background: url("neko.png");
+	background:#C39B77;
 }
-.box
-{
-	width: 450px;
-	background: rgba(87, 89, 88, 0.4);
-	padding: 40px;
-	text-align: center;
-	margin: auto;
-	margin-top: 5%;
-	color: white;
-	font-family: 'Century Gothic', sans-serif;
-}
-.box-img
-{
-	border-radius: 50%;
-	width: 200px;
-	height: 200px;
-}
-.box h1
-{
-	font-size: 40px;
-	letter-spacing: normal;
-	font-weight: 100;
-}
-.box h2
-{
-	font-size: 25px;
-	letter-spacing: 3px;
-	font-weight: 100;
-}
-.box p
-{
-	text-align: center;
-}
-ul
-{
-	margin: 0;
-	padding: 0;
-	text-align: center;
-	color: white;
-}
-.box li
-{
-	display: inline-block;
-	margin: 6px;
-	list-style: none;
-}
-.box li a
-{
-	color: white;
-	text-decoration: none;
-	font-size: 60px;
-	transition: all ease-in-out 250ms;
-}
-.box li a:hover
-{
-	color: #b9b9b9;
-}
+/*left 1% / 1.5% 7.5% space repeat url("assets/flower/flower.png") background purposes*/
